@@ -36,5 +36,21 @@ Plotly
 
 Streamlit
 
+Project Approach:
+
+1.MongoDB Connection and Data Retrieval:
+A connection to the MongoDB Atlas database was established and sample Airbnb data was retrieved.
+
+2.Data Cleaning and Preparation:
+Airbnb dataset was preprocessed by handling missing values, removing duplicates, transforming necessary datatypes and replacing the country codes for choropleth visualizations.
+
+3.Geospatial Visualization:
+The geospatial data from the Airbnb dataset is used to create interactive folium maps. The distribution of listings across different locations are visualized allowing users to explore prices, ratings, and other relevant factors.
+
+4.Analysis and Visualization:
+Python plotly is used to analyze and visualize how prices vary across different locations, property types, and seasons.
+
+5.Dashboard Creation:
+PowerBi is used to create a comprehensive dashboard that presents key insights from analysis.
 
 
