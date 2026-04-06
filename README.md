@@ -27,11 +27,13 @@ Data dictionaries are used to provide detailed information about the contents of
 Tools and Libraries Used:
 
 Python
+
 pymongo
+
 Pandas
+
 Plotly
-Folium
-Tableau
+
 Streamlit
 
 
